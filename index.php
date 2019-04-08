@@ -1,6 +1,9 @@
-<?php require "extends/head.php"; ?>
+<?php require "extends/head.php"?>
     <div class="container text-center">
         Aqu&iacute; va el contenido. XD 
+        <div class="card">
+            <a href="./Login/">Login</a>
+        </div>
         <div class="card">
             <a href="./Admin/">Administrador</a>
         </div>
